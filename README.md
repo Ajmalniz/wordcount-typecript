@@ -1,1 +1,2 @@
-"# wordcount-typecript" 
+# wordcount-typecript
+# CLI program in TypeScript 
